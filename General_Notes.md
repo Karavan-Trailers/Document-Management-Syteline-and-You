@@ -25,3 +25,12 @@
  + The related documents UI resets slowly are swapping forms
 
  + Email Sean / Learn about mass downloads
+
+### Shipping Team
+
+ + Will have to show how to fill out the excel sheet
+ 
+ + Check KT_Customer_order
+   + Change the CO PO number to just co_number
+ 
+ + search for order number W000004570
