@@ -34,3 +34,24 @@
    + Change the CO PO number to just co_number
  
  + search for order number W000004570
+
+### Engineering team
+
+ + Upload only allowing one page of a file at a time
+
+ + Manufacturing Documents
+
+ + Syteline only showing one at a time
+
+ + Locations of the inventory is a bit messy
+   + Meet with Mike S.?
+
++ Make a "How-To" for searching in Syteline
+
++ Check to see if there is a way to to change the information in the "Related Documents" UI in Syteline
+
+### Heidi
+ 
+ + Check what is linked to the Job Order form
+
+ + Her releated documents are not showing up due to a browser cache issue
