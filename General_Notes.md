@@ -50,6 +50,8 @@
 
 + Check to see if there is a way to to change the information in the "Related Documents" UI in Syteline
 
++ Can we copy documents from the old doc track to the new IDM
+
 ### Heidi
  
  + Check what is linked to the Job Order form
