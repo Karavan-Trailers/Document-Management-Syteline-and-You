@@ -57,3 +57,8 @@
  + Check what is linked to the Job Order form
 
  + Her releated documents are not showing up due to a browser cache issue
+
+### Receving and Customer Service
+
+ + Add a Customer Pick List 
+   + (Sort of like for the job pick list but at this time they add notes alot and then scan them in MOSTLY FOR UPS)
